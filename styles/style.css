@@ -88,7 +88,7 @@ h1, .price-text {
     text-decoration: line-through;
 }
 .button-text::before {
-    content:url('/images/icon-cart.svg');
+    content:url('./images/icon-cart.svg');
     margin-right: 10px;
 }
 .button-text{

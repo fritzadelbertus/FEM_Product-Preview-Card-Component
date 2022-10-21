@@ -22,8 +22,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/fritzadelbertus/FEM_QR-Code-Component)
-- Live Site URL: [Github Pages](https://fritzadelbertus.github.io/FEM_QR-Code-Component/)
+- Solution URL: [Github Repo](https://github.com/fritzadelbertus/FEM_Product-preview-card-component)
+- Live Site URL: [Github Pages](https://fritzadelbertus.github.io/FEM_Product-preview-card-component/)
 
 ## My process
 

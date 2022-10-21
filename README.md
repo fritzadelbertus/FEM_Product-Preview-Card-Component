@@ -68,4 +68,4 @@ CSS:
 
 ## Acknowledgments
 
-Thank you to FrontEnd Mentor for providing this challenge. Really challenge me not to change layouts but to insert different images sources for different layouts.
+Thank you to FrontEnd Mentor for providing this challenge. Really challenge me not only to change layouts but to insert different images sources for different layouts.

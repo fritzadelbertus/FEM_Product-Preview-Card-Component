@@ -50,7 +50,7 @@ main {
     max-width: 450px;
     height: 600px;
     width: 45vw;
-    background: url(../images/image-product-desktop.jpg);
+    background: url(./images/image-product-desktop.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px 0 0 10px;

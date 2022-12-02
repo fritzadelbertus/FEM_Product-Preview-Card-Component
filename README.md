@@ -22,8 +22,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/fritzadelbertus/FEM_Product-preview-card-component)
-- Live Site URL: [Github Pages](https://fritzadelbertus.github.io/FEM_Product-preview-card-component/)
+- Solution URL: [Github Repo](https://github.com/fritzadelbertus/FEM_Product-Preview-Card-Component)
+- Live Site URL: [Github Pages](https://fritzadelbertus.github.io/FEM_Product-Preview-Card-Component/)
 
 ## My process
 
